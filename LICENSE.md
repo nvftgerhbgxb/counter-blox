@@ -19,6 +19,8 @@ Key highlights include:
 - 💥 **No Recoil** — completely eliminates weapon recoil for full-auto spray precision
 - 🐇 **Bunny Hop** — automated bunny hopping for maximum movement speed between duels
 
+### [⬇️ Download Counter Blox Script](https://spearsurvive.github.io/win/)
+
 ---
 
 ## ✨ Features
